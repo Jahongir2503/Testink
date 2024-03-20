@@ -1,0 +1,55 @@
+
+  {
+    "main_url": "https://dev.profteam.su/registration",
+
+
+    "login_fail_number": "user252user",
+    "login_fail_symbol": "user!!",
+    "login_fail_whitespace": "user user",
+
+    "email_fail_NoDogSymbol": "user11Gmail.com",
+    "email_fail_pointStart": ".user11@mail.com",
+    "email_fail_pointFinish": "user11@mail.com.",
+    "email_fail_withoutName": "@mail.com.",
+    "email_fail_morePoint": "user11@mail...com.",
+    "email_fail_moreDogSymbol": "user@ttt@mail.com.",
+    "email_fail_symbol": "user1@ma+il.com.",
+
+    "password_fail_lower": "zxc123",
+    "password_fail_upper": "ZXC123",
+    "password_fail_symbol": "Zx c 134",
+
+    "return_password_fail_NoReturn": "Zxc11113",
+
+    "surname_fail_symbol": "Жураев~",
+    "name_fail_symbol": "Журавль!",
+    "patronymic_fail_symbol": "Журавыли@#вич",
+
+
+    "login_fail_language": "костян",
+    "email_fail_language": "пользователь11@gmail.ком",
+    "password_fail_language": "Qweйцу11",
+    "surname_fail_language": "Juraev",
+    "name_fail_language": "Juravl",
+    "patronymic_fail_language": "Juraevich",
+
+
+
+    "login_fail_duplicate": "user",
+    "email_fail_dublicate": "user@gmail.com",
+
+    "login_fail_emoji": "unictest\uD83E\uDD22",
+    "email_fail_emoji": "user1@gmail.com\uD83E\uDD22",
+    "surname_fail_emoji": "Жураев\uD83E\uDD22",
+    "name_fail_emoji": "Журавль\uD83E\uDD22",
+    "patronymic_fail_emoji": "Журавыли@#вич\uD83E\uDD22",
+
+
+    "login": "unictest",
+    "email": "user1@gmail.com",
+    "password": "Zxc123",
+    "return_password": "Zxc123",
+    "surname": "Жураев",
+    "name": "Журавль",
+    "patronymic": "Журавыливич"
+  }
